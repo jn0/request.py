@@ -1,6 +1,6 @@
 [![](https://img.shields.io/pypi/pyversions/request.svg?maxAge=86400)](https://pypi.org/pypi/request/)
 [![](https://img.shields.io/pypi/v/request.svg?maxAge=86400)](https://pypi.org/pypi/request/)
-[![](https://img.shields.io/badge/libraries.io-request-green.svg)](https://libraries.io/pypi/request)
+[![](https://img.shields.io/badge/libraries.io-request-green.svg?maxAge=86400)](https://libraries.io/pypi/request)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/looking-for-a-job/request.py/badge)](https://www.codefactor.io/repository/github/looking-for-a-job/request.py)
 [![CodeClimate](https://codeclimate.com/github/looking-for-a-job/request.py/badges/gpa.svg)](https://codeclimate.com/github/looking-for-a-job/request.py)
@@ -15,11 +15,19 @@
 [![Travis](https://api.travis-ci.org/looking-for-a-job/request.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/request.py/)
 
 ### Install
+
 ```bash
-[sudo] pip install request
+$ [sudo] pip install request
 ```
 
 ### Usage
+
 ```python
 >>> from request import REQUEST
 ```
+
+### Links
+
++ [GET - PyPI](https://pypi.org/project/get/)
++ [POST - PyPI](https://pypi.org/project/post/)
++ [REQUEST - PyPI](https://pypi.org/project/request/)
